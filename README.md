@@ -24,6 +24,6 @@ Estoy abierto a oportunidades de colaboración y aprendizaje. Si tienes un proye
 ## Contacto
 
 - Correo electrónico: oscarwarrieta@gmail.com
-- LinkedIn: oscar-w-arrieta-ramos-986700267
+- LinkedIn: [oscar-w-arrieta-ramos-986700267](https://www.linkedin.com/in/oscar-w-arrieta-ramos-986700267/)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero poder contribuir a proyectos emocionantes y aprender de otros desarrolladores talentosos.
