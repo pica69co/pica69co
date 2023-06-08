@@ -16,6 +16,7 @@ Soy un apasionado Fullstack Developer con experiencia en el desarrollo web y por
 ## Proyectos destacados
 
 ### MuscleLab Gym App
+Dema: https://muscle-lab-six.vercel.app/
 
 Este proyecto fue una oportunidad de trabajar en colaboración con un equipo de desarrolladores y para aplicar mis habilidades tanto en el frontend como en el backend. Utilizamos React para crear una interfaz de usuario intuitiva y dinámica, mientras que Node.js y Express.js manejaron el procesamiento de datos en el servidor. Lo que permitió una comunicación fluida entre el frontend y el backend. Además, implementamos una base de datos PostgreSQL para almacenar y recuperar información de manera eficiente.
 
