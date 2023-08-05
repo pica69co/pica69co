@@ -14,10 +14,11 @@ Soy un apasionado Fullstack Developer con experiencia en el desarrollo web y por
 - **Metodologías ágiles**: Scrum
  
 ## Proyectos destacados
-**e-commerce: https://ecommerce-kd1dzm31f-oscarwarrieta-gmailcom.vercel.app/
-**Prompt-Master:  https://promptmaster-jxqa8b5yu-oscarwarrieta-gmailcom.vercel.app/
-**Search-Github users: https://api-github-profile-search.vercel.app
-**Meme Creator: https://meme-gen-eight.vercel.app
+
+- **e-commerce**: https://ecommerce-kd1dzm31f-oscarwarrieta-gmailcom.vercel.app
+- **Prompt-Master**:  https://promptmaster-jxqa8b5yu-oscarwarrieta-gmailcom.vercel.app
+- **Search-Github users**: https://api-github-profile-search.vercel.app
+- **Meme Creator**: https://meme-gen-eight.vercel.app
 
 ### MuscleLab Gym App
 
