@@ -12,8 +12,12 @@ Soy un apasionado Fullstack Developer con experiencia en el desarrollo web y por
 - **Bases de datos**: MySQL, PostgreSQL
 - **Control de versiones**: Git
 - **Metodologías ágiles**: Scrum
-- 
+ 
 ## Proyectos destacados
+**e-commerce: https://ecommerce-kd1dzm31f-oscarwarrieta-gmailcom.vercel.app/
+**Prompt-Master:  https://promptmaster-jxqa8b5yu-oscarwarrieta-gmailcom.vercel.app/
+**Search-Github users: https://api-github-profile-search.vercel.app
+**Meme Creator: https://meme-gen-eight.vercel.app
 
 ### MuscleLab Gym App
 
@@ -23,10 +27,6 @@ Este proyecto fue una oportunidad de trabajar en colaboración con un equipo de 
 
 Estoy abierto a oportunidades de colaboración y aprendizaje. Si tienes un proyecto interesante o simplemente quieres discutir ideas, no dudes en contactarme. ¡Estoy emocionado por seguir creciendo como desarrollador y contribuir al éxito de proyectos innovadores!
 
-otros proyectos: 
-Prompt-Master:  https://promptmaster-jxqa8b5yu-oscarwarrieta-gmailcom.vercel.app/
-Search Github users: https://api-github-profile-search.vercel.app
-Meme Creator: https://meme-gen-eight.vercel.app
 
 ## Contacto
 
